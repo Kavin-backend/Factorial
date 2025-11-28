@@ -6,4 +6,7 @@ def factorial(n):
     print(fact)
 
 num = int(input("Enter a number: "))
+
 factorial(num)
+
+# Output : 5 => 120.
